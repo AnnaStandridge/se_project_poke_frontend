@@ -1,5 +1,9 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../../fonts/Roboto-Regular.ttf");
+}
+
 .header {
-  margin-top: 30px;
   border-bottom: 1px solid;
   border-bottom-color: black;
   display: flex;
@@ -8,23 +12,31 @@
   margin: 0 auto;
   padding: 20px 0 10px 0;
 }
+
 .header__container {
   display: flex;
   align-items: center;
 }
+
 .header__logo {
   width: 40px;
   height: 40px;
   padding-left: 12px;
 }
+
 .header__logo-name {
   margin: 0 0 0 5px;
-  font-family: "Inter-Bold", "Arial", sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 25px;
   line-height: 40px;
   color: black;
+}
+
+.header__links {
+  display: flex;
+  gap: 20px;
 }
 
 @media screen and (max-width: 480px) {
