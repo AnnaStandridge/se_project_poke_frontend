@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/se_project_poke_frontend/static/css/main.cafad022.css",
+    "main.js": "/se_project_poke_frontend/static/js/main.0efd1631.js",
+    "static/js/787.683e1221.chunk.js": "/se_project_poke_frontend/static/js/787.683e1221.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/se_project_poke_frontend/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/welcome.jpg": "/se_project_poke_frontend/static/media/welcome.86cc602c7b0fa107aa3f.jpg",
+    "static/media/Poké_Ball_icon.svg": "/se_project_poke_frontend/static/media/Poké_Ball_icon.2db7de44dd9ea6558c0113d7d9e3db9d.svg",
+    "index.html": "/se_project_poke_frontend/index.html",
+    "static/media/close.svg": "/se_project_poke_frontend/static/media/close.41654df85174806f9922.svg",
+    "main.cafad022.css.map": "/se_project_poke_frontend/static/css/main.cafad022.css.map",
+    "main.0efd1631.js.map": "/se_project_poke_frontend/static/js/main.0efd1631.js.map",
+    "787.683e1221.chunk.js.map": "/se_project_poke_frontend/static/js/787.683e1221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafad022.css",
+    "static/js/main.0efd1631.js"
+  ]
+}
